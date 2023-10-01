@@ -1,6 +1,7 @@
 # WholeAcoT
-The Groove toolset and case studies for researcher
-Groove Test Generation Manual
+The Groove toolset and case studies
+
+# Groove Test Generation Manual
 
 Requirements:
  Java JDK 1.8
