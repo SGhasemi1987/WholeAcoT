@@ -17,7 +17,7 @@ Steps:
 2)	Download Groove-WholeAcoT-Final.jar and Unzip “Groove-WholeAcoT-Final_lib.rar” in a common folder. 
 3)	Download and Unzip CaseStudies.rar
 4)	Create Folder “workspace” in drive C => (C:// workspace) to save the output
-5)	Run Groove-WholeAcoT-Final.jar
+5)	Run Groove-WholeAcoT-Final.jar by double-click or in Terminal.
 6)	Open one of the CaseStudies from file menu
 7)	From the “Test” Menu, select “Data Flow Coverage Testing”
 8)	In the displayed window, specify the parameters for the algorithm, the default parameters are suitable for a glimpse.
