@@ -4,11 +4,11 @@ The Groove toolset and case studies
 # Groove Test Generation Manual
 
 Requirements:
-
-1.	Java JDK 1.8
-2.	Groove-WholeAcoT-Final.jar
-3.	Groove-WholeAcoT-Final_lib.rar
-4.	CaseStudies.rar
+1.  Windows 7 or higher
+2.	Java JDK 1.8
+3.	Groove-WholeAcoT-Final.jar
+4.	Groove-WholeAcoT-Final_lib.rar
+5.	CaseStudies.rar
 
 
 Steps:
